@@ -11,7 +11,7 @@ Built to practice C++ while studying aeronautical engineering.
 ## HOW TO TRY IT?
 If you want to try it. You only have to :
 1. Download calculadora.exe and atmosfera.dll files.
-2. Double click on calculadore.exe. The the terminal will open asking you for the height in meters.
+2. Double click on calculadora.exe. The the terminal will open asking you for the height in meters.
 
 ## WHICH ARE THE FORMULAS I USED IT?
 1. $$T = T_0 - L \cdot h$$
